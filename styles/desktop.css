@@ -98,3 +98,11 @@ input[type="submit"] {
   width: auto;
   margin: 0;
 }
+.burger {
+  display: none;
+}
+nav {
+
+    overflow: auto; 
+  }
+ 

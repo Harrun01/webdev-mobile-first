@@ -96,8 +96,3 @@ nav{
   overflow: hidden;
   transition: height 0.5s;
 }
-nav {
-  /* for burger menu */
-    overflow: auto; 
-  }
- 
