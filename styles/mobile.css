@@ -80,3 +80,24 @@ input[type="submit"] {
   width: 100%;
   padding: 15px;
 }
+.burger > .line{
+  width: 35px;
+  height: 5px;
+  background-color: #fff;
+  margin: 6px 0;
+}
+#logo {
+  /* text-align: center; */
+  display:flex;
+  justify-content: space-between;
+  padding:5px;
+}
+nav{
+  overflow: hidden;
+  transition: height 0.5s;
+}
+nav {
+  /* for burger menu */
+    overflow: auto; 
+  }
+ 
